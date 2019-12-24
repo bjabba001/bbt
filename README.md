@@ -1,2 +1,3 @@
 # bbt
-Bomba
+
+yane nawa
